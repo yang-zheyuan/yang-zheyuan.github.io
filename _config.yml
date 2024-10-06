@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheyuan Yang"
-description              :
+description              : ""
 repository               : "yang-zheyuan/yang-zheyuan.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zheyuan Yang\n(杨哲源)"
+  name             : "Zheyuan Yang<br> (杨哲源)"
   avatar           : "images/zheyuan_yang.jpg"
   bio              : "The London School of Economics and Political Science"
   location         : 
