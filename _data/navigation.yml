@@ -5,7 +5,7 @@ main:
     url: "/#working-papers"
 
   - title: "CV"
-    url: ""
+    url:
 
   - title: "Teaching"
     url: "/#teaching"
