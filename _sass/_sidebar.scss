@@ -94,8 +94,8 @@
   img {
     max-width: 200px;
     hight: auto; 
-    // min-width: 75px;
-    border-radius: 20%;
+    min-width: 100px;
+    border-radius: 50%;
 
     // @include breakpoint($large) {
       // padding: 5px;
@@ -134,7 +134,7 @@
     font-size: $type-size-3;
   }
   font-family: $sans-serif;
-  font-size: $type-size-3;
+  font-size: 1.6em;
 }
 
 .author__bio {
