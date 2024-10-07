@@ -20,7 +20,7 @@ redirect_from:
 **Welcome!** I am a Ph.D. candidate in Finance at the **London School of Economics** (LSE). I hold a Master's degree in Financial Economics from the **University of Oxford** and a Bachelor's degree in Accounting and Finance from the **LSE**.
 <br>
 <br>
-My research interests are Empirical Corporate Finance, Sustainable Finance and Digital Finance.
+My research interests are Empirical Corporate Finance, Digital Finance and Sustainable Finance.
 <br>
 <br>
 I will be on the 2024-25 job market. [CV]
