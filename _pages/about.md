@@ -31,7 +31,5 @@ Email: [Z.Yang18@lse.ac.uk](mailto:Z.Yang18@lse.ac.uk)
 <br>
 # Working Papers
 
-# Work in Progress
-
 # Teaching
 
