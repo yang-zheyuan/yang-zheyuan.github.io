@@ -23,7 +23,7 @@ redirect_from:
 My research interests are Empirical Corporate Finance, Sustainable Finance and Digital Finance.
 <br>
 <br>
-I will be on the 2024-25 job market. [CV](../docs/)
+I will be on the 2024-25 job market. [CV]()
 <br>
 <br>
 Email: [Z.Yang18@lse.ac.uk](mailto:Z.Yang18@lse.ac.uk)
