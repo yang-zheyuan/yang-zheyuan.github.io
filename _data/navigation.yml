@@ -5,10 +5,10 @@ main:
     url: "/#about-me"
 
   - title: "Research"
-    url: "/#working-papers"
+    url: "/#job-market-paper"
 
   # - title: "CV"
     # url:
 
-  - title: "Teaching"
-    url: "/#teaching"
+  # - title: "Teaching"
+   # url: "/#teaching"
